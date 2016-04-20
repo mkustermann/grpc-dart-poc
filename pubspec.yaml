@@ -1,0 +1,8 @@
+name: grpc_poc
+version: 0.1.0
+description: A proof of concept for a gRPC client in dart.
+
+dependencies:
+  googleapis_auth: ">=0.2.3 <0.3.0"
+  http2: ">=0.1.1 <0.2.0"
+  protobuf: ">=0.4.0 <0.5.0"

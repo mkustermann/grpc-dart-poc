@@ -1,4 +1,8 @@
-# A proof-of-concept for making a gRPC client in dart using package:http2
+# [Deprecated] Dart gRPC client proof-of-concept
+
+***DEPRECATED***. Please see the https://github.com/dart-lang/grpc-dart Dart gRPC implementation.
+
+- - -
 
 This repository contains a hackisch implementation of a gRPC client in Dart. An
 example on how to use it can be seen under `example/pubsub.dart`.
